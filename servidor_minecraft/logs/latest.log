@@ -1,0 +1,861 @@
+[16:22:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:22:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:22:23] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:22:23] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:22:23] [main/INFO] [FML]: Searching /workspaces/sxd/servidor_minecraft/./mods for mods
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.27.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:23] [main/INFO] [Astral Core]: [AstralCore] Initialized.
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:23] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:23] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:23] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in future-mc-0.2.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[16:22:23] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:23] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[16:22:23] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:23] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
+[16:22:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:24] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:22:24] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:22:24] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[16:22:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from supermartijn642corelib-1.0.19-forge-mc1.12.jar
+[16:22:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:22:24] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[16:22:24] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/sxd/servidor_minecraft/./mods/supermartijn642corelib-1.0.19-forge-mc1.12.jar Service=LaunchWrapper Env=SERVER
+[16:22:24] [main/WARN] [FML]: The coremod SuperMartijn642's Core Lib Plugin (com.supermartijn642.core.mixin.CoreModPlugin) is not signed!
+[16:22:24] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[16:22:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:22:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:22:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:22:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[16:22:26] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3028e50e
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:22:26] [main/INFO] [Astral Core]: [AstralTransformer] Loading patches...
+[16:22:26] [main/INFO] [Astral Core]: [AstralTransformer] Initialized! Loaded 14 class patches!
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:22:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:22:27] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:22:27] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:22:27] [main/INFO] [Astral Core]: [AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[16:22:27] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[16:22:27] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[16:22:27] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[16:22:27] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[16:22:27] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[16:22:28] [main/INFO] [Astral Core]: [AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[16:22:28] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[16:22:28] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[16:22:28] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[16:22:28] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[16:22:28] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:22:28] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[16:22:29] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[16:22:29] [main/INFO] [Astral Core]: [AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[16:22:29] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[16:22:29] [main/INFO] [Astral Core]: [AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[16:22:29] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[16:22:30] [main/INFO] [Astral Core]: [AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[16:22:30] [main/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[16:22:30] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[16:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:22:32] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:22:32] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:22:32] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:22:33] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:22:33] [Server thread/INFO] [FML]: Searching /workspaces/sxd/servidor_minecraft/./mods for mods
+[16:22:34] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
+[16:22:35] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[16:22:35] [Server thread/INFO] [FML]: Disabling mod jeiintegration it is client side only.
+[16:22:35] [Server thread/WARN] [FML]: Mod kleeslabs is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 5.4.12
+[16:22:35] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[16:22:36] [Server thread/ERROR] [FML]: Unable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:22:36] [Server thread/ERROR] [FML]: There was a problem reading the entry META-INF/versions/9/module-info.class in the jar ./mods/spark-forge.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[16:22:36] [Server thread/WARN] [FML]: Zip file spark-forge.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[16:22:36] [Server thread/INFO] [FML]: Disabling mod tc6aspects4jei it is client side only.
+[16:22:36] [Server thread/WARN] [FML]: Mod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+[16:22:36] [Server thread/INFO] [FML]: Disabling mod torohealthmod it is client side only.
+[16:22:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 75 mods to load
+[16:22:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftbuilders: assets/buildcraftbuilders/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftcore: assets/buildcraftcore/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftenergy: assets/buildcraftenergy/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftfactory: assets/buildcraftfactory/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftrobotics: assets/buildcraftrobotics/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcraftsilicon: assets/buildcraftsilicon/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for buildcrafttransport: assets/buildcrafttransport/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for integratedtunnelscompat: assets/integratedtunnelscompat/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for kleeslabs: assets/kleeslabs/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for spark: assets/spark/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for stg: assets/stg/lang/en_us.lang
+[16:22:37] [Server thread/WARN] [FML]: Missing English translation for supermartijn642corelib: assets/supermartijn642corelib/lang/en_us.lang
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file animania-1.12.2-catsdogs-1.0.0.28.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file animania-1.12.2-extra-1.0.2.28.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file animania-1.12.2-farm-1.0.2.28.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file jeiintegration_1.12.2-1.6.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file tc6aspects4jei-0.0.2a.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: FML has found a non-mod file torohealth-1.12.2-11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:22:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, openmodscore, foamfixcore, additionalpipes, akashictome, animania, astralsorcery, autoreglib, baubles, betternether, biomesoplenty, bloodmagic, botania, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, carryon, chococraft, clumps, comforts, commoncapabilities, cosmeticarmorreworked, craftstudioapi, creativecore, cyclopscore, dldungeonsjbg, dynamictrees, evilcraft, evilcraftcompat, foamfix, forgelin, futuremc, guideapi, waila, iceandfire, infernalmobs, integrateddynamics, integrateddynamicscompat, integratedtunnels, integratedtunnelscompat, inventorysorter, ironchest, ironfurnaces, jei, journeymap, kleeslabs, mantle, mowziesmobs, mutantbeasts, openblocks, openmods, scalinghealth, sereneseasons, silentlib, simplybackpacks, spark, spartanshields, stg, supermartijn642corelib, tconstruct, thaumcraft, tcinventoryscan, trashcans, llibrary] at CLIENT
+[16:22:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, itemphysic, openmodscore, foamfixcore, additionalpipes, akashictome, animania, astralsorcery, autoreglib, baubles, betternether, biomesoplenty, bloodmagic, botania, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, carryon, chococraft, clumps, comforts, commoncapabilities, cosmeticarmorreworked, craftstudioapi, creativecore, cyclopscore, dldungeonsjbg, dynamictrees, evilcraft, evilcraftcompat, foamfix, forgelin, futuremc, guideapi, waila, iceandfire, infernalmobs, integrateddynamics, integrateddynamicscompat, integratedtunnels, integratedtunnelscompat, inventorysorter, ironchest, ironfurnaces, jei, journeymap, kleeslabs, mantle, mowziesmobs, mutantbeasts, openblocks, openmods, scalinghealth, sereneseasons, silentlib, simplybackpacks, spark, spartanshields, stg, supermartijn642corelib, tconstruct, thaumcraft, tcinventoryscan, trashcans, llibrary] at SERVER
+[16:22:37] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[16:22:38] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming thaumcraft.common.lib.events.PlayerEvents : thaumcraft.common.lib.events.PlayerEvents with 1 patches!
+[16:22:38] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHRUNICSHIELDINGHOOK
+[16:22:38] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming pa : net.minecraft.network.NetHandlerPlayServer with 1 patches!
+[16:22:38] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHSERVEREXTENDENTITYINTERACTREACH
+[16:22:38] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[16:22:38] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[16:22:39] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[16:22:39] [Server thread/INFO] [Animania]: Loaded Addon Animania - Cats & Dogs with id catsdogs and Class com.animania.addons.catsdogs.CatsDogsAddon
+[16:22:39] [Server thread/INFO] [Animania]: Loaded Addon Animania - Extra with id extra and Class com.animania.addons.extra.ExtraAddon
+[16:22:39] [Server thread/INFO] [Animania]: Loaded Addon Animania - Farm with id farm and Class com.animania.addons.farm.FarmAddon
+[16:22:41] [Server thread/INFO] [FutureMC]: Ido is gone...
+[16:22:43] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[16:22:43] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[16:22:43] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[16:22:43] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[16:22:43] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[16:22:43] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[16:22:43] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:22:43] [Server thread/INFO] [FML]: Found 2081 ObjectHolder annotations
+[16:22:43] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:22:43] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:22:44] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:22:44] [Server thread/INFO] [BuildCraft]: 
+[16:22:44] [Server thread/INFO] [BuildCraft]: Starting BuildCraft 7.99.24.8
+[16:22:44] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2018
+[16:22:44] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[16:22:44] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[16:22:44] [Server thread/INFO] [BuildCraft]:   Branch HEAD
+[16:22:44] [Server thread/INFO] [BuildCraft]:   Commit 68370005a10488d02a4bb4b8df86bbc62633d216
+[16:22:44] [Server thread/INFO] [BuildCraft]:     Bump version for release relase, fix a java 13+ compile error, tweak changelog, and fix engines chaining one block more than they should have.
+[16:22:44] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[16:22:44] [Server thread/INFO] [BuildCraft]: 
+[16:22:44] [Server thread/INFO] [BuildCraft]: Loaded Modules:
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - lib
+[16:22:44] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - core
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - builders
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - energy
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - factory
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - robotics
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - silicon
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - transport
+[16:22:44] [Server thread/INFO] [BuildCraft]:   - compat
+[16:22:44] [Server thread/INFO] [BuildCraft]: Missing Modules:
+[16:22:44] [Server thread/INFO] [BuildCraft]: 
+[16:22:44] [Server thread/INFO] [BuildCraft]: [debugger] Not a dev environment!
+[16:22:44] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:22:46] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[16:22:46] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcore] Found status: UP_TO_DATE Target: null
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[16:22:46] [Server thread/INFO] [Additional Pipes]: Registering pipes
+[16:22:46] [Server thread/INFO] [Additional Pipes]: Registering gates
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [dynamictrees] Found status: UP_TO_DATE Target: null
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[16:22:46] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
+[16:22:46] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 3) in biomesoplenty/common/block/BlockBOPGrass spreadGrass
+[16:22:46] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 1) in net/minecraftforge/fluids/BlockFluidFinite func_180650_b
+[16:22:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitytrough`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitynest`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityinvisiblock`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitysaltlick`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:48] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityhamsterwheel`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitycheesemold`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentityhive`, expected `animania`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:51] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming wh : net.minecraft.entity.ai.attributes.ModifiableAttributeInstance with 1 patches!
+[16:22:51] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHPOSTPROCESSATTRIBUTES
+[16:22:51] [Server thread/INFO] [Astral Sorcery]: Crafttweaker not found!
+[16:22:51] [Server thread/INFO] [BuildCraft]: 
+[16:22:51] [Server thread/INFO] [BuildCraft]: Starting BuildCraftCompat 7.99.24.8
+[16:22:51] [Server thread/INFO] [BuildCraft]: Copyright (c) the BuildCraft team, 2011-2017
+[16:22:51] [Server thread/INFO] [BuildCraft]: https://www.mod-buildcraft.com
+[16:22:51] [Server thread/INFO] [BuildCraft]: Detailed Build Information:
+[16:22:51] [Server thread/INFO] [BuildCraft]:   Branch 8.0.x-1.12.2
+[16:22:51] [Server thread/INFO] [BuildCraft]:   Commit 16adfdb3d6a3362ba3659be7d5e9b7d12af7eee5
+[16:22:51] [Server thread/INFO] [BuildCraft]:     Bump for release.
+[16:22:51] [Server thread/INFO] [BuildCraft]:     committed by AlexIIL
+[16:22:51] [Server thread/INFO] [BuildCraft]: 
+[16:22:51] [Server thread/INFO] [BuildCraft]: [compat] Module list:
+[16:22:51] [Server thread/INFO] [BuildCraft]: [compat]   x forestry (It cannot load)
+[16:22:51] [Server thread/INFO] [BuildCraft]: [compat]   x theoneprobe (It cannot load)
+[16:22:51] [Server thread/INFO] [BuildCraft]: [compat]   x crafttweaker (It cannot load)
+[16:22:51] [Server thread/INFO] [BuildCraft]: [compat]   x ic2 (It cannot load)
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/sxd/servidor_minecraft/config/DLDungeonsJBG
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/sxd/servidor_minecraft/config/DLDungeonsJBG/themes/
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/sxd/servidor_minecraft/config/DLDungeonsJBG/themes
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/sxd/servidor_minecraft/config/DLDungeonsJBG/themes
+[16:22:52] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/sxd/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
+[16:22:52] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[16:22:52] [Server thread/INFO] [STDOUT]: [com.ferreusveritas.dynamictrees.ModConfigs:preInit:112]: DynamicTrees BlackListed DimValue: 7
+[16:22:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `species_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:52] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bonsai_tile_entity`, expected `dynamictrees`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `bound_blood_drop`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `veined_scribing_tools`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lectern`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `podium`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `egginice`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pixie_house`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `jar`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_portal`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_spawner`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadidle`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadactive`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `myrmexcocoon`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforge`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgeinput`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgebrick`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:53] [Server thread/INFO] [Ice And Fire]: A raven flies from the north to the sea
+[16:22:53] [Server thread/INFO] [Ice And Fire]: A dragon whispers her name in the east
+[16:22:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `splinter`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `enderference`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `insatiable`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `magnetic`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `momentum`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `dot`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `tconstruct` for name `splinter`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:57] [Server thread/INFO] [Scaling Health]: Trying to change max health cap to 2048
+[16:22:57] [Server thread/INFO] [Scaling Health]: Config successfully loaded!
+[16:22:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:57] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:22:58] [Server thread/INFO] [Additional Pipes]: Registering blocks
+[16:22:58] [Server thread/INFO] [FML]: Applying holder lookups
+[16:22:58] [Server thread/INFO] [FML]: Holder lookups applied
+[16:22:59] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[16:22:59] [Server thread/INFO] [Additional Pipes]: Registering items
+[16:22:59] [Server thread/INFO] [FML]: Applying holder lookups
+[16:23:00] [Server thread/INFO] [FML]: Holder lookups applied
+[16:23:00] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[16:23:00] [Server thread/INFO] [EvilCraft]: 1764 possible Broom base combinations are ready for flying!
+[16:23:00] [Server thread/INFO] [EvilCraft]: 18 Broom modifiers can be applied!
+[16:23:00] [Server thread/INFO] [Additional Pipes]: Registering sounds
+[16:23:00] [Server thread/INFO] [FML]: Applying holder lookups
+[16:23:00] [Server thread/INFO] [FML]: Holder lookups applied
+[16:23:00] [Server thread/INFO] [FML]: Applying holder lookups
+[16:23:00] [Server thread/INFO] [FML]: Holder lookups applied
+[16:23:00] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:23:00] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:23:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:23:01] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[16:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:23:01] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:23:02] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[16:23:02] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-catsdogs-1.0.0.28.jar!/assets/catsdogs/
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-catsdogs-1.0.0.28.jar!/assets/catsdogs/
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-extra-1.0.2.28.jar!/assets/extra/
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-extra-1.0.2.28.jar!/assets/extra/
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-farm-1.0.2.28.jar!/assets/farm/
+[16:23:02] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-farm-1.0.2.28.jar!/assets/farm/
+[16:23:02] [Server thread/INFO] [Astral Core]: [AstralTransformer] Transforming alm : net.minecraft.enchantment.EnchantmentHelper with 1 patches!
+[16:23:02] [Server thread/INFO] [Astral Core]: [AstralTransformer] Applied patch PATCHMODIFYENCHANTMENTLEVELS
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `entangled_chalice_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `dark_tank_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `blood_extractor_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_1`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_2`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_3`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_4`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_5`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_6`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_7`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `broom_part_8`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `display_stand`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `evilcraft` for name `deadbush`, expected `evilcraftcompat`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `painted acacia slab`, expected `mowziesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[16:23:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:02] [Server thread/INFO] [Additional Pipes]: Registering recipes
+[16:23:03] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[16:23:03] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[16:23:03] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[16:23:03] [Server thread/INFO] [FML]: Applying holder lookups
+[16:23:03] [Server thread/INFO] [FML]: Holder lookups applied
+[16:23:03] [Server thread/INFO] [Additional Pipes]: Registering chunk load handler
+[16:23:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `teleport_tether`, expected `additionalpipes`. This could be a intended override, but in most cases indicates a broken mod.
+[16:23:03] [Server thread/INFO] [Additional Pipes]: Setting up renderings...
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid crystaloil for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid empoweredoil for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid redstone for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid glowstone for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ender for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid pyrotheum for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid cryotheum for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid refined_oil for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid refined_fuel for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid fluidoil for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid fluidnitrodiesel for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2uu_matter for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2biomass for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid ic2biogas for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid mana for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Ignoring fluid nacre for rarity registry - it doesn't exist in the current environment
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded OAK of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded SPRUCE of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded BIRCH of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded JUNGLE of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded ACACIA of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded DARK_OAK of minecraft into tree registry.
+[16:23:04] [Server thread/INFO] [Astral Sorcery]: Loaded SLIME of tconstruct into tree registry.
+[16:23:04] [AstralSorcery Patreon Effect Loader/WARN] [Astral Sorcery]: Skipped 4 patreon effects during loading due to malformed data!
+[16:23:04] [AstralSorcery Patreon Effect Loader/INFO] [Astral Sorcery]: Patreon effect loading finished.
+[16:23:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the ocean oil biome.
+[16:23:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the desert oil biome.
+[16:23:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil spout generator
+[16:23:04] [Server thread/INFO] [BuildCraft]: [energy.oilgen] Registered the oil biome initiializer
+[16:23:05] [Thread-7/INFO] [Cyclops Core]: Cyclops Core is up-to-date!
+[16:23:05] [Thread-7/INFO] [CommonCapabilities]: CommonCapabilities is up-to-date!
+[16:23:05] [Thread-7/INFO] [EvilCraft]: EvilCraft is up-to-date!
+[16:23:05] [Thread-7/INFO] [Integrated Dynamics]: Integrated Dynamics is up-to-date!
+[16:23:05] [Thread-7/INFO] [Integrated Tunnels]: Integrated Tunnels is up-to-date!
+[16:23:05] [Server thread/INFO] [EvilCraft]: Registered packet handler.
+[16:23:05] [Server thread/INFO] [foamfix]: Deduplicated 311 property sets.
+[16:23:05] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[16:23:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
+[16:23:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
+[16:23:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
+[16:23:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
+[16:23:05] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
+[16:23:05] [Server thread/INFO] [Ice And Fire]: The watcher waits on the northern wall
+[16:23:05] [Server thread/INFO] [Ice And Fire]: A daughter picks up a warrior's sword
+[16:23:05] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/sxd/servidor_minecraft/config/infernalmobs.cfg
+[16:23:05] [Server thread/INFO] [Integrated Dynamics]: Registered packet handler.
+[16:23:05] [Server thread/INFO] [IntegratedDynamics-Compat]: Registered packet handler.
+[16:23:05] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:23:05] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:23:05] [Server thread/WARN] [FML]: No types have been added to Biome evilcraft:biome_degraded, types have been assigned on a best-effort guess: [PLAINS, WET]
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[16:23:07] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[16:23:07] [Server thread/INFO] [botania]: The Lexica Botania has 26984 words.
+[16:23:07] [Server thread/INFO] [Astral Sorcery]: Post compile recipes
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Loading custom NBT tags (nbt.cfg)
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (chests.cfg)
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Found 1 special chest configs.
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (oceanic_chests.cfg)
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Found 6 block family configs.
+[16:23:07] [Server thread/INFO] [DLDUNGEONS]: Found 12 themes.
+[16:23:07] [Server thread/INFO] [EvilCraft]: Register fluid conversion for blood with ratio 1.0
+[16:23:07] [Server thread/INFO] [EvilCraft]: Register fluid conversion for lifeessence with ratio 1.0
+[16:23:07] [Server thread/WARN] [EvilCraft]: Could not find a fluid by name 'hell_blood' for a fluid converter config.
+[16:23:07] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraftcompat.mod_integrations from mod evilcraft in an infobook: Could not find crafting recipe for 1xitem.items.evilcraft.veined_scribing_tools@32767::null with index 0
+[16:23:07] [Server thread/WARN] [EvilCraft]: Invalid appendix info_book.evilcraftcompat.mod_integrations from mod evilcraft in an infobook: Could not find crafting recipe for 1xitem.items.evilcraft.veined_scribing_tools@32767::null with index 1
+[16:23:07] [Server thread/INFO] [Ice And Fire]: A brother bound to a love he must hide
+[16:23:07] [Server thread/INFO] [Ice And Fire]: The younger's armor is worn in the mind
+[16:23:07] [Server thread/INFO] [Ice And Fire]: A cold iron throne holds a boy barely grown
+[16:23:07] [Server thread/INFO] [Ice And Fire]: And now it is known
+[16:23:07] [Server thread/INFO] [Ice And Fire]: A claim to the prize, a crown laced in lies
+[16:23:07] [Server thread/INFO] [Ice And Fire]: You win or you die
+[16:23:07] [Server thread/INFO] [Ice And Fire]: Damn season 8 really sucked didn't it
+[16:23:07] [Server thread/INFO] [net.blay09.mods.kleeslabs.KleeSlabs]: If you wish to setup additional KleeSlabs compatibility, create a folder called 'KleeSlabsCompat' in your config directory and place JSON files inside.
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [STDOUT]: [com.bobmowzie.mowziesmobs.server.spawn.SpawnHandler:getBiomesFromConfig:146]: Reflection failed
+[16:23:07] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[16:23:08] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 930.435543 ms
+[16:23:08] [Server thread/INFO] [Waila]: Starting Waila...
+[16:23:08] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[16:23:08] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugins...
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at buildcraft.compat.module.waila.HWYLAPlugin
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at com.animania.addons.extra.compat.ExtraAddonWailaCompat
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at com.animania.addons.farm.compat.FarmAddonWailaCompat
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at com.animania.compat.waila.WailaCompat
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at com.ferreusveritas.dynamictrees.compat.WailaCompat
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at com.github.alexthe666.iceandfire.compat.waila.PluginIceAndFire
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[16:23:08] [Server thread/INFO] [Waila]: Registering plugin at WayofTime.bloodmagic.compat.waila.BloodMagicHwylaPlugin
+[16:23:08] [Server thread/INFO] [Waila]: Starting Waila took 102.7 ms
+[16:23:09] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 75 mods
+[16:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[16:23:09] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:23:10] [Server thread/INFO] [FML]: Applying holder lookups
+[16:23:10] [Server thread/INFO] [FML]: Holder lookups applied
+[16:23:10] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2f421fe)
+[16:23:10] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 946 advancements
+[16:23:11] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[16:23:11] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:518) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:519) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-catsdogs-1.0.0.28.jar!/assets/catsdogs/
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-extra-1.0.2.28.jar!/assets/extra/
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-farm-1.0.2.28.jar!/assets/farm/
+[16:23:11] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1035 advancements
+[16:23:11] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 0
+[16:23:11] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[16:23:11] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2f421fe)
+[16:23:11] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[16:23:11] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:518) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:519) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-catsdogs-1.0.0.28.jar!/assets/catsdogs/
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-extra-1.0.2.28.jar!/assets/extra/
+[16:23:11] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-farm-1.0.2.28.jar!/assets/farm/
+[16:23:11] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1035 advancements
+[16:23:11] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension 1
+[16:23:11] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[16:23:11] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[16:23:11] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2f421fe)
+[16:23:11] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[16:23:11] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_432]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_432]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_432]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_432]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:518) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:11] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at com.animania.common.handler.AddonHandler.onWorldLoad(AddonHandler.java:519) [AddonHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_AddonHandler_onWorldLoad_Load.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:309) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:23:12] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-catsdogs-1.0.0.28.jar!/assets/catsdogs/
+[16:23:12] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-extra-1.0.2.28.jar!/assets/extra/
+[16:23:12] [Server thread/INFO] [STDOUT]: [com.animania.addons.AddonResourcePack:getAddonPath:80]: Path classpath: jar:file:/workspaces/sxd/servidor_minecraft/./mods/animania-1.12.2-farm-1.0.2.28.jar!/assets/farm/
+[16:23:12] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 1035 advancements
+[16:23:12] [Server thread/INFO] [Astral Sorcery]: Checking GatewayCache integrity for dimension -1
+[16:23:12] [Server thread/INFO] [Astral Sorcery]: GatewayCache checked and fully loaded in 0ms! Collected and checked 0 gateway nodes!
+[16:23:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:23:12] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[16:23:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
+[16:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.026s)! For help, type "help" or "?"
+[16:23:15] [Thread-11/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[16:23:15] [Thread-12/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[16:23:15] [Thread-13/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[16:23:15] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[16:23:15] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:23:15] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[16:23:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:23:17] [Thread-12/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[16:23:17] [Thread-13/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Starting version check at http://openmods.info/versions/openmodslib.json
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [openmods] Found status: AHEAD Target: null
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftlib] Found status: UP_TO_DATE Target: null
+[16:25:00] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[16:25:01] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[16:25:01] [Forge Version Check/INFO] [forge.VersionCheck]: [buildcraftcompat] Found status: AHEAD Target: null
+[16:25:01] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Starting version check at http://openmods.info/versions/openblocks.json
+[16:25:01] [Forge Version Check/INFO] [forge.VersionCheck]: [openblocks] Found status: AHEAD Target: null
+[16:25:55] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[16:25:55] [Netty Epoll Server IO #2/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[16:25:55] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 79 mods : buildcraftlib@7.99.24.8,cyclopscore@1.6.7,inventorysorter@1.13.3+57,mowziesmobs@1.5.8,astralsorcery@1.10.27,dldungeonsjbg@1.14.12,creativecoredummy@1.0.0,animania@2.0.3.28,openmods@0.12.2,buildcraftenergy@7.99.24.8,jei@4.16.1.301,buildcrafttransport@7.99.24.8,futuremc@0.2.6,betternether@0.1.8.6,craftstudioapi@1.0.0,kleeslabs@5.4.12,tc6aspects4jei@0.0.2a,tcinventoryscan@2.0.10,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1,comforts@1.4.1.3,evilcraft@0.10.78,sereneseasons@1.2.18,forgelin@1.8.4,mutantbeasts@1.12.2-1.0.2,stg@1.12.2-1.2.3,foamfixcore@7.7.4,llibrary@1.7.20,iceandfire@1.9.1,waila@1.8.26,integrateddynamicscompat@1.0.0,guideapi@1.12-2.1.8-63,carryon@1.12.3,thaumcraft@6.1.BETA26,akashictome@1.2-12,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,chococraft@0.9.1.52,buildcraftrobotics@7.99.24.8,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,commoncapabilities@2.4.8,mousetweaks@2.10,biomesoplenty@7.0.1.2445,silentlib@3.0.13,baubles@1.5.2,buildcraftsilicon@7.99.24.8,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,supermartijn642corelib@1.0.19,botania@r1.10-364,simplybackpacks@1.4.9,spark@1.6.3,evilcraftcompat@1.0.0,jeiintegration@1.6.0,mantle@1.12-1.3.3.55,spartanshields@1.5.5,buildcraftbuilders@7.99.24.8,integrateddynamics@1.1.11,additionalpipes@6.0.0.8,buildcraftfactory@7.99.24.8,autoreglib@1.3-32,integratedtunnels@1.6.14,FML@8.0.99.99,buildcraftcompat@7.99.24.8,integratedtunnelscompat@1.0.0,itemphysic@1.4.0,foamfix@@VERSION@,trashcans@1.0.14,cosmeticarmorreworked@1.12.2-v5a,scalinghealth@1.3.37,dynamictrees@1.12.2-0.9.29,torohealthmod@1.12.2-11,buildcraftcore@7.99.24.8
+[16:25:55] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[16:26:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:26:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: OnTap[/127.0.0.1:55108] logged in with entity id 268 at (-47.5, 68.0, 248.5)
+[16:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap joined the game
+[16:26:00] [Server thread/INFO] [Waila]: Player EntityPlayerMP['OnTap'/268, l='world', x=-47.50, y=68.00, z=248.50] connected. Sending ping
+[16:26:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for OnTap...
+[16:26:01] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to OnTap
+[16:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [Ice and Fire]
+[16:28:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: OnTap lost connection: Timed out
+[16:28:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap left the game
