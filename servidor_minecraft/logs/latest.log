@@ -1374,3 +1374,47 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
 [21:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
 [21:09:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[21:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[21:12:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:12:48] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/sxd/servidor_minecraft/./world/data/inventory-galleta0610-2024-12-08_21.12.48-death-0.dat. It can be restored with command '/ob_inventory restore galleta0610 galleta0610-2024-12-08_21.12.48-death-0'
+[21:12:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: galleta0610 burned to death
+[21:12:48] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (4d38e996-2758-3c8c-a8b5-323e05de1d39,galleta0610) was spawned at (BlockPos{x=-258, y=33, z=-77}) (player died at (BlockPos{x=-258, y=33, z=-77}))
+[21:13:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 716.4156768811785,16.0,192.04833462924918
+[21:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[21:14:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:15:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 5.105015610369492,5.936624625369177,6.343149288036457
+[21:15:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [Not Today, Thank You]
+[21:16:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved wrongly!
+[21:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:17:16] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/sxd/servidor_minecraft/./world/data/inventory-galleta0610-2024-12-08_21.17.16-death-0.dat. It can be restored with command '/ob_inventory restore galleta0610 galleta0610-2024-12-08_21.17.16-death-0'
+[21:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: galleta0610 fell from a high place
+[21:17:16] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (4d38e996-2758-3c8c-a8b5-323e05de1d39,galleta0610) was spawned at (BlockPos{x=-215, y=47, z=-166}) (player died at (BlockPos{x=-215, y=47, z=-166}))
+[21:17:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 714.9364780878677,16.0,191.08118505062131
+[21:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[21:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:18:06] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/sxd/servidor_minecraft/./world/data/inventory-galleta0610-2024-12-08_21.18.06-death-0.dat. It can be restored with command '/ob_inventory restore galleta0610 galleta0610-2024-12-08_21.18.06-death-0'
+[21:18:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: galleta0610 was slain by Zombie Pigman
+[21:18:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 714.661751112719,16.0,190.80000001192093
+[21:19:02] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/sxd/servidor_minecraft/./world/data/inventory-galleta0610-2024-12-08_21.19.02-death-0.dat. It can be restored with command '/ob_inventory restore galleta0610 galleta0610-2024-12-08_21.19.02-death-0'
+[21:19:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: galleta0610 was pricked to death
+[21:19:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 714.9436620458204,16.0,191.43581060306408
+[21:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:20:13] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/sxd/servidor_minecraft/./world/data/inventory-galleta0610-2024-12-08_21.20.13-death-0.dat. It can be restored with command '/ob_inventory restore galleta0610 galleta0610-2024-12-08_21.20.13-death-0'
+[21:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: galleta0610 was slain by Zombie Pigman
+[21:20:13] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (4d38e996-2758-3c8c-a8b5-323e05de1d39,galleta0610) was spawned at (BlockPos{x=-185, y=51, z=-170}) (player died at (BlockPos{x=-185, y=51, z=-170}))
+[21:20:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved too quickly! 716.4594485769795,16.0,192.134852616671
+[21:20:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:22:26] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player galleta0610)
+[21:23:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [Gunpowder, spice...]
+[21:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[21:26:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [A Flaming Sword]
+[21:27:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved wrongly!
+[21:27:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved wrongly!
+[21:28:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: galleta0610 moved wrongly!
+[21:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [Inner Arts]
+[21:30:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Game rule keepinventory has been updated to true]
+[21:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]

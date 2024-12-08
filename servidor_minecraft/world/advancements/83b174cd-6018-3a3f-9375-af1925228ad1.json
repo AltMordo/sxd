@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 21:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 17:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -56,6 +68,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 17:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -209,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-08 20:35:59 +0000"
@@ -224,6 +248,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-07 17:31:42 +0000"
+    },
+    "done": true
+  },
+  "mutantbeasts:gunpowder_spice": {
+    "criteria": {
+      "chemical_x": "2024-12-08 21:23:16 +0000"
     },
     "done": true
   },
@@ -326,6 +356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 21:23:25 +0000"
+    },
+    "done": true
+  },
   "mutantbeasts:root": {
     "criteria": {
       "killed_by_something": "2024-12-07 16:40:17 +0000"
@@ -359,6 +395,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 17:14:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "ice_sword": "2024-12-08 21:26:35 +0000"
     },
     "done": true
   },
@@ -413,6 +455,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2024-12-07 18:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -473,6 +521,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-07 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -799,6 +853,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 17:14:16 +0000"
@@ -949,9 +1009,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 21:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-07 18:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-08 21:15:45 +0000"
     },
     "done": true
   },
@@ -1202,6 +1274,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-08 21:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-07 18:14:34 +0000"
@@ -1217,6 +1295,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-07 18:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -1257,6 +1341,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-07 17:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
@@ -1314,6 +1404,12 @@
     },
     "done": true
   },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-12-08 21:29:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-07 17:44:21 +0000"
@@ -1338,6 +1434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-08 21:23:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-08 20:21:18 +0000"
@@ -1359,6 +1461,12 @@
   "evilcraft:root": {
     "criteria": {
       "criteria_0": "2024-12-07 21:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-08 21:23:26 +0000"
     },
     "done": true
   },
