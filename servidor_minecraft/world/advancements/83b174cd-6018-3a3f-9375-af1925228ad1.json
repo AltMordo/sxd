@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 20:35:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2024-12-07 17:07:31 +0000"
@@ -539,6 +545,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 17:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 20:35:59 +0000"
     },
     "done": true
   },
@@ -1086,6 +1098,18 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-07 17:24:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-08 20:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-08 20:35:59 +0000"
     },
     "done": true
   },
