@@ -1095,3 +1095,17 @@ Waystones: Requires version 4.1.0 but mod is not found on client.
 [20:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <galleta0610> que yo
 [20:19:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <OnTap> no soy tu
 [20:19:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <OnTap> papeado*
+[20:21:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: OnTap has made the advancement [My Name is Nobody]
+[20:21:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: OnTap moved too quickly! 12.559065704536806,3.6104140648445195,3.907878979338051
+[20:23:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[20:23:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: OnTap moved wrongly!
+[20:23:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: OnTap moved wrongly!
+[20:24:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: OnTap moved wrongly!
+[20:27:24] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-70, 14] in dimension 0 (overworld) while populating chunk [-70, 15], causing cascading worldgen lag.
+[20:27:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:27:24] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-70, 13] in dimension 0 (overworld) while populating chunk [-70, 15], causing cascading worldgen lag.
+[20:27:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Teleported galleta0610 to OnTap]
+[20:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Creative Mode]
+[20:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set own game mode to Survival Mode]
+[20:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [OnTap: Set the time to 1000]
