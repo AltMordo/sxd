@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-08 20:44:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-07 17:14:16 +0000"
@@ -272,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 20:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 17:41:54 +0000"
@@ -470,6 +482,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "undergarden": "2024-12-08 20:47:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-07 17:10:30 +0000"
@@ -644,9 +662,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-08 20:50:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-08 20:48:16 +0000",
       "skeleton": "2024-12-07 17:41:41 +0000",
+      "blaze": "2024-12-08 20:48:04 +0000",
       "cave_spider": "2024-12-07 18:41:40 +0000",
       "zombie": "2024-12-07 17:23:47 +0000",
       "witch": "2024-12-07 17:25:18 +0000",
@@ -659,6 +685,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-07 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-08 20:44:03 +0000"
     },
     "done": true
   },
@@ -845,6 +877,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2024-12-07 17:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-08 20:48:32 +0000"
     },
     "done": true
   },
