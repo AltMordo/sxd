@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-08 21:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-08 21:55:22 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2024-12-07 16:26:01 +0000"
@@ -729,6 +741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 21:55:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2024-12-08 21:37:44 +0000",
@@ -950,6 +968,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2024-12-08 21:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2024-12-08 20:48:32 +0000"
@@ -1034,6 +1058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-08 21:55:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-12-07 17:09:44 +0000"
@@ -1115,6 +1145,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-07 17:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 21:55:44 +0000"
     },
     "done": true
   },
@@ -1326,6 +1362,8 @@
       "extreme_hills_with_trees": "2024-12-07 17:24:54 +0000",
       "forest_hills": "2024-12-07 17:07:53 +0000",
       "plains": "2024-12-07 17:24:24 +0000",
+      "taiga": "2024-12-08 21:52:03 +0000",
+      "taiga_hills": "2024-12-08 21:52:33 +0000",
       "birch_forest_hills": "2024-12-07 17:35:00 +0000",
       "ocean": "2024-12-07 17:41:57 +0000",
       "extreme_hills": "2024-12-07 17:24:21 +0000",
