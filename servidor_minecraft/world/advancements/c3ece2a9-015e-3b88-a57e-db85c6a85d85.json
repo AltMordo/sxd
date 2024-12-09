@@ -19,7 +19,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2024-12-08 04:06:57 +0000"
+      "forest": "2024-12-08 04:06:57 +0000",
+      "plains": "2024-12-09 00:41:40 +0000"
     },
     "done": false
   },
